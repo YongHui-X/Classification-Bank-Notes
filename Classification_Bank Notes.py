@@ -79,8 +79,9 @@ def show_diffs(model, X_test, y_test):
 def plot_loss(losses):
     plt.plot(losses)
     plt.xlabel('Epochs')
-    plt.ylabel('Error')
+    plt.ylabel('Loss (BCE)')
     plt.title('Loss curve')
+    plt.grid(True, alpha=0.3)
     plt.show()
 
 '''Main prog'''
