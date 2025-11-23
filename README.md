@@ -18,5 +18,6 @@ A simple but effective **binary classifier** that is trained using a neural netw
 ## Results
 - Test Loss (BCE): ~0.0008
 - Test Accuracy: ≈100%
-<img width="544" height="425" alt="results" src="https://github.com/user-attachments/assets/5550ebbc-e822-4b91-ab12-02f05762f56b" />
-<img width="640" height="480" alt="loss curve" src="https://github.com/user-attachments/assets/635f546e-a906-495a-829e-e0a3c7d29473" />
+<img width="589" height="389" alt="results" src="https://github.com/user-attachments/assets/e9dc116e-0399-4ebd-83ae-0a4274bf4378" />
+<img width="640" height="480" alt="loss curve" src="https://github.com/user-attachments/assets/8d291020-7f27-48b9-b66e-df151f570a57" />
+
