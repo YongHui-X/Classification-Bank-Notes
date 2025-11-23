@@ -130,7 +130,7 @@ print(model)
 
 #train model
 print("Training the model...")
-bce_loss_train = train_model(model, criterion, optimizer, X_train, y_train, epochs=500)
+bce_loss_train = train_model(model, criterion, optimizer, X_train, y_train, epochs=150)
 plot_loss(bce_loss_train)
 
 #test model
