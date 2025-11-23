@@ -16,8 +16,9 @@ A simple but effective **binary classifier** that is trained using a neural netw
 - matplotlib
 
 ## Results
-- Test Loss (BCE): ~0.0008
+- Test Loss (BCE): ~0.031635
 - Test Accuracy: ≈100%
-<img width="589" height="389" alt="results" src="https://github.com/user-attachments/assets/e9dc116e-0399-4ebd-83ae-0a4274bf4378" />
-<img width="640" height="480" alt="loss curve" src="https://github.com/user-attachments/assets/8d291020-7f27-48b9-b66e-df151f570a57" />
+
+<img width="545" height="372" alt="results" src="https://github.com/user-attachments/assets/6237057d-2ced-4e6a-918d-aee1263a8a59" />
+<img width="640" height="480" alt="Figure_1_150 epochs" src="https://github.com/user-attachments/assets/8466455e-1a05-4142-b516-f8ddb50ce522" />
 
